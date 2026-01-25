@@ -1,0 +1,24 @@
+@nsobid-44172A860A992E17
+// ==========================================
+//    FORTNITE PATCH - 
+//    PROPRIÉTÉ DE : FORTXG
+//    VERSION : 39.30
+// ==========================================
+
+@flag offset_shift 0x100
+
+// --- LOGIN ---
+@enabled
+075BC370 "fart"
+
+// --- MATCHMAKING ---
+@enabled
+064A703A A1BE03D0
+
+// --- SAVE ---
+@enabled
+001F1C13 A19700F9
+
+// ==========================================
+//           /switch/ips/FortPatche/
+// ==========================================
